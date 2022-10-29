@@ -3,7 +3,9 @@
 ## 1.Overview
     
    State:Kentucky
+
    Varibales:3 toxic chemicals and people's health status
+
    Outcome:Potential policy suggestions
 
 ## 2.Data:
