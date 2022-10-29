@@ -23,6 +23,7 @@ https://drive.google.com/drive/folders/1_r7lX19z70et-daZjuolweQsYZMqT72M?usp=sha
       Main Geolocation Data: County Name, Defining Site.
 
   2. Health Data: 
+        
         Original Link: https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-Census-Tract-D/cwsq-ngmh
       
         Data Year: 2021 
