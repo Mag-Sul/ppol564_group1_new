@@ -16,14 +16,14 @@ Google Drive For Data: https://drive.google.com/drive/folders/1_r7lX19z70et-daZj
       Source: United States Environmental Protection Agency
       Original Link: https://aqs.epa.gov/aqsweb/airdata/download_files.html 
       
-      Data Year: Using 2021 data to match TRACT Data
+      Data Year: 2021
       
       Main Geolocation Data: County Name, Defining Site.
 
   2. Health Data: 
       Original Link: https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-Census-Tract-D/cwsq-ngmh
       
-        Data Year: 2021 Release 
+        Data Year: 2021 
         
         Main Variables: 
 
