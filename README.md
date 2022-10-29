@@ -25,7 +25,7 @@ Google Drive For Data: https://drive.google.com/drive/folders/1_r7lX19z70et-daZj
       
         Data Year: 2021 
         
-        Main Variables: 
+        Main Variables: StateDesc,Short_Question_Text
 
 ## 3.Code:
   1. Initial_File.ipynb + rendered HTML file 
