@@ -20,8 +20,10 @@ Google Drive For Data: https://drive.google.com/drive/folders/1_r7lX19z70et-daZj
 
   2. Health Data: 
       Original Link: https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-for-Better-Health-Census-Tract-D/cwsq-ngmh
-      Data Year: 2021 Release 
-      Main Geolocation Data: 
+      
+        Data Year: 2021 Release 
+        
+        Main Variables: 
 
 ## 3.Code:
   1. Initial_File.ipynb + rendered HTML file 
