@@ -1,7 +1,7 @@
 # ppol564_group1_new
 Group project repo (attempt 2)
 
-# Data:
+## Data:
 Google Drive For Data: https://drive.google.com/drive/folders/1_r7lX19z70et-daZjuolweQsYZMqT72M?usp=sharing
 
 
@@ -16,11 +16,11 @@ Original Link: https://chronicdata.cdc.gov/500-Cities-Places/PLACES-Local-Data-f
 Data Year: 2021 Release 
 Main Geolocation Data: 
 
-# Code:
+## Code:
 1. Initial_File.ipynb + rendered HTML file 
 Initial data exploration by Sanha to see what kind of data we have, especially geodata location! 
 Some really horrifying graphs in there 
 
 
-# Output:
+## Output:
 None so far
