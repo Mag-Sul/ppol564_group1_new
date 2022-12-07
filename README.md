@@ -43,17 +43,17 @@ https://drive.google.com/drive/folders/1_r7lX19z70et-daZjuolweQsYZMqT72M?usp=sha
 
 Each file has been stored in a working ipynb file for further experimentation and then rendered into an html (placed in output folder) for easier read. 
 
-1. 0_Final_Data_Cleaning: \
+1. 0_Final_Data_Cleaning: 
 
-        Cleaning and condensing of data for further analysis \
+        Cleaning and condensing of data for further analysis 
 
-2. 1_Final_Data_Merging: \
+2. 1_Final_Data_Merging: 
 
-        1.2: Merging Air Quality data with health data based on County Name \
-        1.3: Merging previously-joined data with sulfur data based on County Name, that is then refined to precisely locate collection points within 15 miles of each other \
+        1.2: Merging Air Quality data with health data based on County Name 
+        1.3: Merging previously-joined data with sulfur data based on County Name, that is then refined to precisely locate collection points within 15 miles of each other 
 
 
-3. 2_Final Data Visualizations: \
+3. 2_Final Data Visualizations: 
 
         Data visualizations for better insight into data: 
         (Visualizations in HTML format placed in Output folder for direct use): 
@@ -62,8 +62,8 @@ Each file has been stored in a working ipynb file for further experimentation an
         2.4: Health_SO2.html 
 
 
-4. 3_Regression: \
-        Finding linear relationship netween different health measures and Air Quality/Sulfur measurements \
+4. 3_Regression: 
+        Finding linear relationship netween different health measures and Air Quality/Sulfur measurements 
 
 
 ## 4.Output: 
