@@ -4,7 +4,7 @@
     
    State: Kentucky
 
-   Variables: 3 toxic chemicals and people's health status
+   Variables: SO2 and people's health status
 
    Outcome: Any correlations and potential policy suggestions
 
