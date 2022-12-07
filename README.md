@@ -43,7 +43,7 @@ https://drive.google.com/drive/folders/1_r7lX19z70et-daZjuolweQsYZMqT72M?usp=sha
 
 Each file has been stored in a working ipynb file for further experimentation and then rendered into an html (placed in output folder) for easier read. 
 
-1. 0_Final_Data_Cleaning:
+1. 0_Final_Data_Cleaning: \
         Cleaning and condensing of data for further analysis
 
 2. 1_Final_Data_Merging:
